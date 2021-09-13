@@ -4,9 +4,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MasEug.MasEug)
 
-I am a frontend-developer junior. My experience is 3 years in commercial projects.
+I am a frontend-developer. My experience is 3 years in commercial projects.
 Briefly about me: I like to think, learn and know a little JS. I am looking for interesting projects and opportunities for professional growth.
 <br>
+
+ <img src="https://www.codewars.com/users/maseug/badges/micro" />
 
 **Talking about Personal Stuffs:**
 
