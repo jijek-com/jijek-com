@@ -4,8 +4,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MasEug.MasEug)
 
-I am a frontend-developer. My experience is 3 years in commercial projects.
-Briefly about me: I like to think, learn and know a little JS. I am looking for interesting projects and opportunities for professional growth.
+Software engineer with 2+ years of experience. Have developed several android and web apps, that engage customers and deliver business results. Well-versed in design standards and user preferences.
+Enthusiastic frontend development eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in it Industry.
 <br>
 
  <img src="https://www.codewars.com/users/maseug/badges/micro" />
