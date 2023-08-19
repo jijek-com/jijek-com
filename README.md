@@ -14,7 +14,7 @@ Enthusiastic frontend development eager to contribute to team success through ha
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mas.eug@yandex.ru;
-- 📝 [Resume](https://portfolio.maseug.vercel.app/).
+- 📝 [Resume](https://portfolio-omega-lemon-77.vercel.app/)).
 
 </br>
 
