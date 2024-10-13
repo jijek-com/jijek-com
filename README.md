@@ -13,7 +13,7 @@ Enthusiastic frontend development eager to contribute to team success through ha
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: mas.eug@icloud.com;
+- 📫 How to reach me: mas.eug55@gmail.com;
 - 📝 [Resume](https://jijek-com.github.io/)).
 
 </br>
